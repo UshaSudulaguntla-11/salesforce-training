@@ -11,6 +11,7 @@ Improve customer service
 Automate business processes
 
 Salesforce Objects
+
 Account
 Represents a company or organization.
 
@@ -25,6 +26,7 @@ Business Flow
 Lead → Contact → Opportunity → Customer
 
 Real-World Example – College Admission System
+
 Account = College
 
 Contact = Student
