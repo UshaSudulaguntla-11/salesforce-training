@@ -60,7 +60,7 @@ Lead → Contact → Opportunity → Customer
 
 ---
 
-# Mandatory Questions
+# Questions
 
 ## 1. What problem does Salesforce solve?
 
